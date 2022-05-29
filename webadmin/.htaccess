@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Authorised Staff Access only"
+AuthUserFile "C:\Users\leena\Documents\Assignment\Web Development\www\webadmin\.htpassword"
+Require valid-user
